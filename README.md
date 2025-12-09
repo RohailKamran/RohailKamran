@@ -1,5 +1,5 @@
 <h1 align="center">Hi Aoa 👋, I'm Rohail</h1>
-<h3 align="center">A Full Stack and Web3 Blockchain developer from Pakistan</h3>
+<h3 align="center">A Full Stack and Web3 AI Blockchain developer from Pakistan</h3>
 
 <p align="left"> <a href="https://twitter.com/therohailkamran" target="blank"><img src="https://img.shields.io/twitter/follow/therohailkamran?logo=twitter&style=for-the-badge" alt="therohailkamran" /></a> </p>
 
