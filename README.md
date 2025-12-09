@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **P2E on Cardano and DEXs for ERC20 tokens**
 
-- 🌱 I’m currently learning **about Deep Learning and Generative AI**
+- 🌱 I’m currently experimenting **with Deep Learning and Generative AI**
 
-- 👯 I’m looking to collaborate on **Web3 Projects**
+- 👯 I’m looking to collaborate on **Projects that create value**
 
 - 🤝 I’m looking for help with **taking some ideas to the next level**
 
-- 💬 Ask me about **blockchain, full stack web dev and the exciting world of web3**
+- 💬 Ask me about **blockchain, full stack web dev and the exciting world of AI and Web3**
 
 - 📫 How to reach me **rohailkamran@gmail.com**
 
